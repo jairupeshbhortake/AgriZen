@@ -2,6 +2,7 @@
 Agrizen is a comprehensive digital platform designed to revolutionize the agriculture industry by connecting farmers, companies, and experts in one unified space. Our mission is to empower farmers with cutting-edge technology and innovative solutions to enhance crop productivity, promote sustainable practices, and ensure food security for the future.
 
 Key Features:
+
 Marketplace: A secure platform for buying and selling fruits,vegetables,fertilizers, seeds, and crops, complete with integrated secure payment gateways.
 
 AI-Powered Plant Disease Detection: Advanced machine learning models to help farmers identify and combat plant diseases in real-time.
