@@ -17,4 +17,6 @@ Crop Price Forum: A dynamic space where users can track crop prices, discuss tre
 
 Government Schemes: Stay Updated with the latest schemes and policies related to agriculture.
 
+Integrated app for the same coming soon!!
+
 Agrizen is more than just a platform—it's a movement towards a smarter, more connected agricultural ecosystem. Join us in transforming the future of farming.
